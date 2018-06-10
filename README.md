@@ -13,4 +13,5 @@ and comparing them to global temperature rate
 and delivering charts  
 
 # Other Information  
+
 Part of Udacity's Data Analyst Nanodegree 
