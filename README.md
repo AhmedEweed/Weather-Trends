@@ -1,17 +1,30 @@
-# Weather Trends  
+# Weather Trends
 
-Exploring the temperature changes in world's cities  
-like Berlin, Cairo, London and New york  
-along a period of 200 years  
-and comparing them to global temperature rate  
+Explore Weather and Temperature changes around the world
+over a period of 200 years
 
-# Used Technologies  
+## Getting Started
 
-* SQL: for querying data out of the database  
-* MS Excel: for implemeting moving averages on data  
-* Google Sheets: for visualizing the relations  
-and delivering charts  
+To get a copy of the project, just clone the repository and download it to a local directory
+then open `Explore Weather Trends.pdf` with any pdf reader for example Adope or Document Viewer
 
-# Other Information  
+you can then see my report
+and the results and plots I made on the dataset
 
-Part of Udacity's Data Analyst Nanodegree 
+### Prerequisites
+
+you should have a pdf file viewer on your system
+
+## Authors
+
+* **Ahmed Eweed** - *Initial work* - [AhmedEweed](https://github.com/AhmedEweed)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* Hat tip to anyone whose code was used
+
+* This Project is part of Udacity's Data Analyst Nanodegree
